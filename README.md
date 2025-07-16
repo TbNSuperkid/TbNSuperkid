@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TbNSuperkid
-- 👀 I’m interested in Gaming and Badminton
-- 🌱 I’m currently learning programming anfroid apps w/ Kotlin
+- 👀 I’m interested in gaming and programming
+- 🌱 I’m currently learning programming android apps w/ Kotlin
 - 📫 How to reach me ...
-- 😄 Pronouns: Baccardi/Cola
 - ⚡ Fun fact: No clue what I#m doing here
 
 <!---
